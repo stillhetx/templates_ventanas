@@ -1,8 +1,12 @@
 Coleccion de plantillas de ventanas sencillas en C++, para el inicio rapido de proyectos en C.
 
-Dentro de los ejemplos hay ventanas que utilizan WinApi, SDL2 y GWFL. 
-Ademas de ejemplos basicos de formularios.
+Dentro de los ejemplos hay ventanas que utilizan WinApi, SDL2 y GWFL. Ademas de ejemplos basicos de formularios.
 
+Se utilizo MinGW-w64 para compilar los archivos.
+
+Cada uno de los archivos posee un archivo ".bat" que compila la ventana. <br>
+
+<img src="https://github.com/stillhetx/templates_ventanas/blob/9e622df5df7e831ec26a9ba4bf2ee080ffa476e2/WindowsTerminal_GnVHmm6nOI.png"  width="500"/>
 
 FORMS_TUTORIAL<br>
 
