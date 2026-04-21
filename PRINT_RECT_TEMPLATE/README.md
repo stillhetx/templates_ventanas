@@ -1,0 +1,2 @@
+# PRINT_RECT_TEMPLATE
+template
